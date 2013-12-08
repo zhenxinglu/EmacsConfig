@@ -1,0 +1,15 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("masterepgmgr"
+ (filename . "c:/temp/masterepgmgr.sh")
+ (front-context-string . "\nsqlplus '/ as s")
+ (rear-context-string . "nager schema...\"")
+ (position . 1651))
+("hosts"
+ (filename . "c:/Windows/System32/drivers/etc/hosts")
+ (front-context-string . "27.0.0.1 cms-app")
+ (rear-context-string . ".0.1 ACSServer\n1")
+ (position . 879))
+)

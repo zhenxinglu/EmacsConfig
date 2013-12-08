@@ -1,0 +1,95 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sun Dec  8 16:33:03 2013
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("dwim" "dir1" "dwi" "evil" "mya" "dir2a" "mous" "H2" "evil" "EVI" "evil" "full" "ema"))
+(setq regexp-search-ring '("txt"))
+(setq register-alist '((67108873)))
+(setq file-name-history '("c:/temp/dir2/file2.txt.gz" "c:/temp/dir1/file2.txt.gz" "c:/temp/dir2/" "c:/temp/dir1" "c:/temp/dir2/file2.txt.gz" "c:/temp/dir2" "c:/temp/dir1/a.txt" "c:/temp/dir1" "c:/temp/mydir/" "c:/temp/" "c:/temp/mydir/b.txt" "c:/temp/mydir/a.txt" "c:/temp/dir2/file2.txt" "c:/temp/mydir/../dir2/" "c:/temp/dir2" "c:/temp/" "c:/temp/mydir/myfile.txt" "c:/temp/mydir/a.txt" "c:/temp/mydir" "c:/temp/" "c:/software/dev/Eclipse/" "c:/work/CMS/epg/bugs/7262_too_long_time_before_activity_log_start_for_ftp_Rovi_ingest/bug7262_change_note.txt" "/Windows/System32/drivers/etc" "/Windows/System32/driver" "/Windows/System32/driver/etc/en-US/" "/cmstools/jboss-5.1.0.GA/" "/opt/tandbergtv/cms/conf/" "c:/work/CMS/epg/bugs/B09606_enhance_smooks_exception/ut_change.java" "c:/work/CMS/epg/bugs/B09606_enhance_smooks_exception/b09606_change.txt" "c:/work/CMS/epg/bugs/B09606_enhance_smooks_exception/" "c:/temp/" "c:/tem" "c:/temp/" "c:/software/util/emacs/lisp/loaddefs.el" "c:/work/CMS/cms_tips.txt" "c:/Windows/System32/drivers/etc/hosts" "c:/Users/eacffhj/workspace/EpgDbDecouple/EpgDbDecouple/etv-smookds-config.xml" "c:/book/Office/Emacs/emacs_tips.txt" "c:/work/CMS/epg/bugs/6604_rovi_data_century/debug.sql" "c:/temp/masterepgmgr.sh" "c:/work/CMS/epg/bugs/6977_series_entries_will_lost/bug6977_submit_notes.txt" "~/.emacs" "~/.emacs.d/tabbar/tabbar-ruler.el" "c:/temp/TelnetClientExample.java" "~/.emacs.d/tabbar.el.new" "c:/temp/a.java" "c:/cmstools/jboss-5.1.0.GA/server/standard/deploy/jms-ds.xml" "c:/work/CMS/epg/decouple_db_QS/xml2csv-conv-0.0.1/xml2csv.java" "~/.emacs.d/bookmarks" "c:/temp/csv2.csv" "c:/cmstools/jboss-5.1.0.GA/server/standard/conf/jboss-log4j.xml" "c:/work/CMS/epg/decouple_db_QS/etv-smookds-config.xml" "~/.emacs.d/elpa/archives/ELPA/archive-contents"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "c:/Users/eacffhj/AppData/Roaming/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(visual-line-mode global-visual-line-mode global-auto-revert-mode linum-mode undo-tree-mode hs-minor-mode)
+  7348
+  '(7221 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . chinese-gb18030-dos) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "temp"
+  'dired-mode
+  '(visual-line-mode global-visual-line-mode global-auto-revert-mode linum-mode)
+  1774
+  '(nil nil)
+  t
+  '("c:/temp/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "dir2"
+  'dired-mode
+  '(visual-line-mode global-visual-line-mode global-auto-revert-mode linum-mode)
+  201
+  '(nil nil)
+  t
+  '("c:/temp/dir2/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "dir1"
+  'dired-mode
+  '(visual-line-mode global-visual-line-mode global-auto-revert-mode linum-mode)
+  108
+  '(207 nil)
+  t
+  '("c:/temp/dir1/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  "c:/temp/dir2/a.txt"
+  "a.txt<2>"
+  'text-mode
+  '(visual-line-mode global-visual-line-mode global-auto-revert-mode linum-mode undo-tree-mode)
+  2
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "c:/temp/dir1/a.txt"
+  "a.txt"
+  'text-mode
+  '(visual-line-mode global-visual-line-mode global-auto-revert-mode linum-mode undo-tree-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "c:/Windows/System32/drivers/etc/hosts"
+  "hosts"
+  'picture-mode
+  '(visual-line-mode global-visual-line-mode global-auto-revert-mode linum-mode undo-tree-mode artist-mode)
+  478
+  '(1246 nil)
+  t
+  nil
+  '((buffer-file-coding-system . undecided-dos) (truncate-lines . t)))
+
